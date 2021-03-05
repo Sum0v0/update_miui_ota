@@ -2,6 +2,8 @@
 | ---- |
 | [miui_APOLLO_21.3.3_01f4349106_11.0.zip](https://hugeota.d.miui.com/21.3.3/miui_APOLLO_21.3.3_01f4349106_11.0.zip)    |
 | [miui_APOLLO_21.3.2_5df70e05e4_11.0.zip](https://hugeota.d.miui.com/21.3.2/miui_APOLLO_21.3.2_5df70e05e4_11.0.zip)    |
+| [miui_APOLLO_21.3.1_3ac14739d7_11.0.zip](https://hugeota.d.miui.com/21.3.1/miui_APOLLO_21.3.1_3ac14739d7_11.0.zip)    |
+| [miui_APOLLO_21.2.28_9ab2654712_11.0.zip](https://hugeota.d.miui.com/21.2.28/miui_APOLLO_21.2.28_9ab2654712_11.0.zip)    |
 | [miui_APOLLO_21.2.24_e7b2d83787_11.0.zip](https://hugeota.d.miui.com/21.2.24/miui_APOLLO_21.2.24_e7b2d83787_11.0.zip)    |
 | [miui_APOLLO_21.2.23_74d49714b3_11.0.zip](https://hugeota.d.miui.com/21.2.23/miui_APOLLO_21.2.23_74d49714b3_11.0.zip)    |
 | [miui_APOLLO_21.2.22_3288c886d0_11.0.zip](https://hugeota.d.miui.com/21.2.22/miui_APOLLO_21.2.22_3288c886d0_11.0.zip)    |
